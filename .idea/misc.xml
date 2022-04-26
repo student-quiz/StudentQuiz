@@ -4,7 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Projects/AndroidStudio/StudentQuiz/app/src/main/res/drawable/ic_launcher_background.xml" value="0.196" />
+        <entry key="..\:/Projects/AndroidStudio/StudentQuiz/app/src/main/res/drawable/intro_background.xml" value="0.338" />
+        <entry key="..\:/Projects/AndroidStudio/StudentQuiz/app/src/main/res/drawable/shape_button_rounded.xml" value="0.338" />
+        <entry key="..\:/Projects/AndroidStudio/StudentQuiz/app/src/main/res/drawable/white_border_shape_button_rounded.xml" value="0.338" />
+        <entry key="..\:/Projects/AndroidStudio/StudentQuiz/app/src/main/res/layout-v23/activity_intro.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/AndroidStudio/StudentQuiz/app/src/main/res/layout-v23/activity_sign_up.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/AndroidStudio/StudentQuiz/app/src/main/res/layout/activity_intro.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/AndroidStudio/StudentQuiz/app/src/main/res/layout/activity_sign_up.xml" value="0.28532608695652173" />
         <entry key="..\:/Projects/AndroidStudio/StudentQuiz/app/src/main/res/layout/activity_splashscreen.xml" value="0.18802083333333333" />
+        <entry key="..\:/Projects/AndroidStudio/StudentQuiz/app/src/main/res/layout/dialog_progress.xml" value="0.2554347826086957" />
         <entry key="..\:/Projects/AndroidStudio/StudentQuiz/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1785" />
       </map>
     </option>

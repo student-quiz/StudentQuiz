@@ -31,8 +31,8 @@ class SplashscreenActivity : AppCompatActivity() {
         // Adding the handler to after the a task after some delay.
         Handler(Looper.getMainLooper()).postDelayed({
             // Start the Intro Activity
-            startActivity(Intent(this, MainActivity::class.java))
+            startActivity(Intent(this, IntroActivity::class.java))
             finish()
-        },5000)
+        },2500)
     }
 }
